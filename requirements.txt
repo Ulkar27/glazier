@@ -6,3 +6,4 @@ PyYAML
 requests
 six
 git+git://github.com/google/winops@master#egg=gwinpy
+test
